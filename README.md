@@ -4,8 +4,11 @@
 
 Team Members
 Ashley Cooper: Visualization, Presentation, Coffee Research
-Nurmaa Dashzeveg: EDA, CSV Pulls, Presentation, 
+
+Nurmaa Dashzeveg: EDA, CSV Pulls, Presentation
+
 Deidra Lebron: CSV pulls, , README, Presentation, PostgreSQL, Coffee Research
+
 Vraj Patel: Visualization, PostresSQL, Utilization of Python or JavaScript visualization library that was not covered in class
 
 Overview of the Project & It's Purpose
