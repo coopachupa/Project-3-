@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/6967eefc-5254-4766-bba0-8a8b992fb5d4)
 
-## Team_Members()
+## Team_Members():
 - Ashley Cooper>...Visualizations, Coffee Research, Project Report, Outline/Proposal, Git setup, Presentation
 - Nurmaa Dashzeveg>...Final Jupyter Notebook, Presentation, CSV Pull
 - Deidra Lebron>...CSV Pull, README, Coffee Research, PostgreSQL, Project Report, Presentation
