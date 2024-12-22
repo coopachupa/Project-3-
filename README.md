@@ -1,12 +1,12 @@
-# Project-3- Data_Grinders
+# Project-3- Data_Grinders (DRAFT)
 
 ![image](https://github.com/user-attachments/assets/6967eefc-5254-4766-bba0-8a8b992fb5d4)
 
 ## Team_Members
-- Ashley Cooper: Visualizations, Coffee Research, 
+- Ashley Cooper: Visualizations, Coffee Research, Project Report, Outline/Proposal, Git setup, Presentation
 - Nurmaa Dashzeveg: Final Jupyter Notebook, Presentation, CSV Pull
-- Deidra Lebron: CSV Pull, README, Coffee Research
-- Vraj Patel: 
+- Deidra Lebron: CSV Pull, README, Coffee Research, PostgreSQL, Project Report, Presentation
+- Vraj Patel: Visualizations, PostgreSQL, Library not covered, Presentation
 
 ##Overview of the Project & It's Purpose
 This project came about from a mutual interest in the Coffee Business. Our team wanted to take a deeper look at the variables associated with Coffee in our country and their connections to other factors/countries of interest. We sought to answer the questions:
@@ -24,7 +24,10 @@ highest in overall quality?
 ## At least one paragraph summarizing efforts for ethical considerations made in the project:
 
 ## References for the data source(s):
+https://www.kaggle.com/datasets/parasrupani/coffee-distribution-across-94-counties
+https://www.kaggle.com/datasets/dataanalyst001/world-population-by-country-2024
+https://www.kaggle.com/datasets/adampq/coffee-quality-with-locations-of-origin?select=Coffee_Qlty_By_Country.csv
 
-## References for any code used:
+## References for data code used:
 
 
