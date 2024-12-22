@@ -3,10 +3,10 @@
 ![image](https://github.com/user-attachments/assets/6967eefc-5254-4766-bba0-8a8b992fb5d4)
 
 ## Team_Members
--Ashley Cooper: Visualizations, Coffee Research, 
--Nurmaa Dashzeveg: Final Jupyter Notebook, Presentation, CSV Pull
--Deidra Lebron: CSV Pull, README, Coffee Research
--Vraj Patel: 
+- Ashley Cooper: Visualizations, Coffee Research, 
+- Nurmaa Dashzeveg: Final Jupyter Notebook, Presentation, CSV Pull
+- Deidra Lebron: CSV Pull, README, Coffee Research
+- Vraj Patel: 
 
 ##Overview of the Project & It's Purpose
 This project came about from a mutual interest in the Coffee Business. Our team wanted to take a deeper look at the variables associated with Coffee in our country and their connections to other factors/countries of interest. We sought to answer the questions:
