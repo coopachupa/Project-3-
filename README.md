@@ -24,9 +24,9 @@ highest in overall quality?
 ## At least one paragraph summarizing efforts for ethical considerations made in the project:
 
 ## References for the data source(s):
-https://www.kaggle.com/datasets/parasrupani/coffee-distribution-across-94-counties
-https://www.kaggle.com/datasets/dataanalyst001/world-population-by-country-2024
-https://www.kaggle.com/datasets/adampq/coffee-quality-with-locations-of-origin?select=Coffee_Qlty_By_Country.csv
+- https://www.kaggle.com/datasets/parasrupani/coffee-distribution-across-94-counties
+- https://www.kaggle.com/datasets/dataanalyst001/world-population-by-country-2024
+- https://www.kaggle.com/datasets/adampq/coffee-quality-with-locations-of-origin?select=Coffee_Qlty_By_Country.csv
 
 ## References for data code used:
 
