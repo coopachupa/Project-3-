@@ -7,14 +7,16 @@
 
 ## Overview of the Project & It's Purpose
 Data_Grinders was decided upon because of a mutual interest in the Coffee Business. Our team wanted to take a deeper look at the variables associated with Coffee in our country and their connections to other factors/countries of interest. We sought to answer the questions:
-1. How have coffee imports and exports changed over time?
-2. What countries were the top coffee exporters in 2023 (e.g., coffee beans, roasted, and ground 
-coffee)?
-3. Which countries were the top coffee consumers in 2023 (e.g., coffee beans, roasted, and ground 
-coffee)?
-4. What type of coffee is predominantly exported (e.g., acidic or sweet), and what countries score 
-highest in overall quality?
-5. Which countries consume the most coffee relative to their population, based on consumer data?
+1. How have coffee imports and exports changed over time? (2013 – 2023)
+a. Visualized by a line chart, plotted the number of imports and exports over the last 10 years for XXXX countries.
+2. What countries were the top 3 coffee exporters in 2013 – 2023?
+a. Visualized by a bar chart, we took the average of exports over the last 10 years and show the top 3 countries with the highest average overall exports
+b. Visualized by a bar chart, we took the average of imports over the last 10 years and show the top 3 countries with the highest average overall exports
+3. Which countries were the top 3 coffee consumers in 2013 – 2023?
+a. Visualized by a bar chart, we took the average of imports over the last 10 years and show the top 3 countries with the highest average overall exports
+4. What countries score highest in overall quality?
+                 a. We took the
+5. Which countries consume the most coffee relative to their population?
 
 ## Instructions on how to use and interact with the project:
 
