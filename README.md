@@ -6,7 +6,7 @@
 "DATA" is a 501(c)(3) non-prfit agency that conducts objective, nonpartisan research and delivers insights that decision-makers can trust. Most of our funding has been through grants, fundraisers and donations. Over the years, we have experienced funding challenges and have decided to offset our expenses by extablishing a for-profit subsidiary called Data_Grinders.
 
 ## Overview of the Project & It's Purpose
-This project came about from a mutual interest in the Coffee Business. Our team wanted to take a deeper look at the variables associated with Coffee in our country and their connections to other factors/countries of interest. We sought to answer the questions:
+Data_Grinders was decided upon because of a mutual interest in the Coffee Business. Our team wanted to take a deeper look at the variables associated with Coffee in our country and their connections to other factors/countries of interest. We sought to answer the questions:
 1. How have coffee imports and exports changed over time?
 2. What countries were the top coffee exporters in 2023 (e.g., coffee beans, roasted, and ground 
 coffee)?
