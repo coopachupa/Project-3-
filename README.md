@@ -3,10 +3,10 @@
 ![image](https://github.com/user-attachments/assets/6967eefc-5254-4766-bba0-8a8b992fb5d4)
 
 ## Introduction
-"DATA" is a 501(c)(3) non-profit agency that conducts objective, nonpartisan research and delivers insights that decision-makers can trust. Most of our funding has been through grants, fundraisers and donations. Over the years, we have experienced funding challenges and have decided to offset our expenses by extablishing a for-profit subsidiary called Data_Grinders.
+"DATA" is a 501(c)(3) non-profit agency that conducts objective, nonpartisan research and delivers insights that decision-makers can trust. Our funding consists of grants, fundraisers and donations. Over the years, we have experienced funding challenges and have decided to offset our expenses by extablishing a for-profit subsidiary called Data_Grinders.
 
 ## Overview of the Project & It's Purpose
-Data_Grinders was decided upon because of a mutual interest in the Coffee Business. Our team wanted to take a deeper look at the variables associated with the Coffee industry in our country and their connections to other factors/countries of interest. We sought to answer the questions to make decisions about the quality of product we want to present, our budget and vendor availablilty.
+Data_Grinders was decided upon because of a mutual interest in the Coffee Business. Our team wanted to take a deeper look at the variables associated with the Coffee industry within our country and the connections to other countries of interest. We sought to answer the following questions to make decisions about the quality of product we want to present as well as deciding factors regarding budget and vendor availablilty.
 
 ##### Ashley
 1. How have coffee imports and exports changed over time? (2013 – 2023)
@@ -44,6 +44,6 @@ a. Visualization by bar chart, we took the value scores from aroma, flavor, afte
 ## Team_Members():
 - Ashley Cooper>...Visualizations, Coffee Research, Project Report, Outline/Proposal, Git setup, Presentation
 - Nurmaa Dashzeveg>...Final Jupyter Notebook, Presentation, CSV Pull
-- Deidra Lebron>...CSV Pull, README, Coffee Research, PostgreSQL, Project Report, Presentation
+- Deidra Lebron>...CSV Pull, README, Coffee Research, PostgreSQL, Project Report, Presentation, HTML
 - Vraj Patel>...Visualizations, PostgreSQL, Library not covered, Presentation
 
