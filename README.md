@@ -3,9 +3,14 @@
 ![image](https://github.com/user-attachments/assets/6967eefc-5254-4766-bba0-8a8b992fb5d4)
 
 ## Introduction
-"DATA" is a 501(c)(3) non-profit agency that conducts objective, nonpartisan research and delivers insights that decision-makers can trust. Our funding consists of grants, fundraisers and donations. Over the years, we have experienced funding challenges and have decided to offset our expenses by extablishing a for-profit subsidiary called Data_Grinders.
+"DATA" is a 501(c)(3) non-profit agency that conducts objective, nonpartisan research and delivers insights that decision-makers can trust. Our funding consists of grants, fundraisers and donations. Over the years, we have experienced funding challenges and have decided to offset our expenses by extablishing a for-profit subsidiary called Data_Grinders. Our primary objective is to generate consistent income while promoting the mission and values of "Data".  
 
 ## Overview of the Project & It's Purpose
+### **Objectives:**
+1. **Revenue Generation** - Provide financial support to fund non-profit programs and initiatives.  
+2. **Brand Awareness** - Leverage the coffee business to raise awareness about the non-profit's mission.  
+3. **Community Engagement** - Create opportunities for local partnerships and employment.  
+4. **Sustainability** - Establish a long-term funding source that reduces reliance on donations and grants.
 Data_Grinders was decided upon because of a mutual interest in the Coffee Business. Our team wanted to take a deeper look at the variables associated with the Coffee industry within our country and the connections to other countries of interest. We sought to answer the following questions to make decisions about the quality of product we want to present as well as deciding factors regarding budget and vendor availablilty.
 
 ##### Ashley
