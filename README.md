@@ -51,9 +51,6 @@ Understanding which countries were the top 5 consumers of coffee over a 10-year 
 - It will help Data_Grinders adapt to changing consumer behaviors and position our business in the context of global coffee culture.
 In essence, knowing the top coffee-consuming countries will help Data_Grinders make informed decisions about our business operations, ensuring that we stay competitive, relevant, and profitable in the evolving coffee market.
 
-![image](https://github.com/user-attachments/assets/d5a24ec8-6013-410c-a76f-80097eca6a72)
-
-
 Visualized by a bar chart, these are the top 3 countries with the highest average overall domestic consumption.
 
 #### Vraj
