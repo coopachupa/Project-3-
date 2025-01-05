@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tab 1</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="navbar">
+            <a href="home.html" class="nav-item">Home</a>
+            <a href="tab1.html" class="nav-item active">Tab 1</a>
+            <a href="tab2.html" class="nav-item">Tab 2</a>
+            <a href="tab3.html" class="nav-item">Tab 3</a>
+            <a href="tab4.html" class="nav-item">Tab 4</a>
+            <a href="tab5.html" class="nav-item">Tab 5</a>
+        </div>
+        <div class="content">
+            <h2>How have coffee imports and exports changed over time? </h2>
+            <p>Knowing how coffee imports and exports have changed over time is essential for a coffee shop business for the following reasons:</p>
+                <ul><li>It helps anticipate and manage price fluctuations and costs:</li>
+                <li>It aids in diversifying our sourcing strategy to ensure a reliable supply of coffee beans;</li>
+                <li>It allows us to understand market trends, positioning our coffee offerings in line with consumer demand;</ll>
+                <li>It provides insight into economic, political, and environmental factors that could affect the coffee supply chain.</li></ul>
+            <canvas id="myChart" width="400" height="200"></canvas>
+        </div>
+    </div>
+    <script>
+        // Get the canvas element where the chart will be drawn
+        const ctx = document.getElementById('myChart').getContext('2d');
+
+        // Create a bar chart using Chart.js
+        const myChart = new Chart(ctx, {
+            type: 'bar',  // Type of chart (bar chart)
+            data: {
+                labels: ['January', 'February', 'March', 'April', 'May'],  // X-axis labels
+                datasets: [{
+                    label: 'Monthly Sales',  // The label for the dataset
+                    data: [12, 19, 3, 5, 2],  // The data for the bar chart
+                    backgroundColor: 'rgba(75, 192, 192, 0.2)',  // Bar color
+                    borderColor: 'rgba(75, 192, 192, 1)',  // Border color
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,  // Make chart responsive
+                scales: {
+                    y: {
+                        beginAtZero: true  // Start the Y-axis from 0
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
