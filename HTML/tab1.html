@@ -12,31 +12,37 @@
     <div class="container">
         <div class="navbar">
             <a href="home.html" class="nav-item">Home</a>
-            <a href="tab1.html" class="nav-item active">Tab 1</a>
-            <a href="tab2.html" class="nav-item">Tab 2</a>
-            <a href="tab3.html" class="nav-item">Tab 3</a>
-            <a href="tab4.html" class="nav-item">Tab 4</a>
-            <a href="tab5.html" class="nav-item">Tab 5</a>
+            <a href="tab1.html" class="nav-item active">Import/Export</a>
+            <a href="tab2.html" class="nav-item">Trend</a>
+            <a href="tab3.html" class="nav-item">Consumer</a>
+            <a href="tab4.html" class="nav-item">Quality</a>
+            <a href="tab5.html" class="nav-item">Heat Map</a>
         </div>
         <div class="content">
-            <h2>How have coffee imports and exports changed over time?</h2>
-            <p>Knowing how coffee imports and exports have changed over time is essential for a coffee shop business for the following reasons:</p>
+            <h2>Top Importing and Exporting Countries</h2>
+            <p>This shows the top importing countries and top exporting countries of coffee beans.</p>
             <ul>
-                <li>It helps anticipate and manage price fluctuations and costs;</li>
+                <li>It helps anticipate price fluctuations and costs.</li>
                 <li>It aids in diversifying our sourcing strategy to ensure a reliable supply of coffee beans;</li>
                 <li>It allows us to understand market trends, positioning our coffee offerings in line with consumer demand;</li>
                 <li>It provides insight into economic, political, and environmental factors that could affect the coffee supply chain.</li>
             </ul>
-            <h3>Imports</h3>
-        <div id="b2plot">
-            <script src="barchart2_plots.js"></script>
-        </div>
-        <h3>Exports</h3>
-        <div id="bplot">
-            <script src="barcharts_plots.js"></script>
-        </div>
-        </div>
+            <h3>Imports and Exports</h3>
+            <div id="plot"></div>
+
+            <select id="selDataset">
+                <option value="Exports">Exports</option>
+                <option value="Imports">Imports</option>
+            </select>
         
+            <script src="dropplots.js"></script>
+        </body>
+        <footer class="footer">
+            <p>
+                <a href="about.html" class="footer-link">About Us</a>
+                <a href="members.html" class="footer-link">Members</a>
+            </p>
+        </footer>
     </div>
     
     
