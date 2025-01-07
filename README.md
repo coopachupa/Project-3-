@@ -25,8 +25,8 @@ Data_Grinders was decided upon because of a mutual interest in the Coffee Busine
 
 ## References for data code used:
 ## Team_Members():
-- Ashley Cooper>...Visualizations, Coffee Research, Project Report, Outline/Proposal, Git setup, Presentation
+- Ashley Cooper>...Visualizations, Coffee Research, Project Report, Outline/Proposal, Git setup, Presentation, HTML
 - Nurmaa Dashzeveg>...Final Jupyter Notebook, Presentation, CSV Pull, Visualization
 - Deidra Lebron>...CSV Pull, README, Coffee Research, Presentation, HTML, Visualization
-- Vraj Patel>...PostgreSQL, HTML, Presentation
+- Vraj Patel>...PostgreSQL, HTML, Presentation, 
 
