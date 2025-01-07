@@ -5,19 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tab 1</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 <body>
     <div class="container">
-        <nav class="navbar">
+        <div class="navbar">
             <a href="home.html" class="nav-item">Home</a>
             <a href="tab1.html" class="nav-item active">Tab 1</a>
             <a href="tab2.html" class="nav-item">Tab 2</a>
             <a href="tab3.html" class="nav-item">Tab 3</a>
             <a href="tab4.html" class="nav-item">Tab 4</a>
             <a href="tab5.html" class="nav-item">Tab 5</a>
-        </nav>
-        <main class="content">
+        </div>
+        <div class="content">
             <h2>How have coffee imports and exports changed over time?</h2>
             <p>Knowing how coffee imports and exports have changed over time is essential for a coffee shop business for the following reasons:</p>
             <ul>
@@ -26,13 +27,18 @@
                 <li>It allows us to understand market trends, positioning our coffee offerings in line with consumer demand;</li>
                 <li>It provides insight into economic, political, and environmental factors that could affect the coffee supply chain.</li>
             </ul>
-        </main>
+            <h3>Imports</h3>
+        <div id="b2plot">
+            <script src="barchart2_plots.js"></script>
+        </div>
+        <h3>Exports</h3>
+        <div id="bplot">
+            <script src="barcharts_plots.js"></script>
+        </div>
+        </div>
+        
     </div>
-    <h3>Imports</h3>
-    <div id="b2plot"></div>
-    <script src="barchart2_plots.js"></script>
-    <h3>Exports</h3>
-    <div id="bplot"></div>
-    <script src="barcharts_plots.js"></script>
+    
+    
 </body>
 </html>
