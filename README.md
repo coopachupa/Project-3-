@@ -5,14 +5,21 @@
 ## Introduction
 "DATA" is a 501(c)(3) non-profit agency that conducts objective, nonpartisan research and delivers insights that decision-makers can trust. Our funding consists of grants, fundraisers and donations. Over the years, we have experienced funding challenges and have decided to offset our expenses by establishing a for-profit subsidiary called Data_Grinders. Our primary objective is to generate consistent income while promoting the mission and values of "Data".  
 
+Data_Grinders was decided upon because of a mutual interest in the Coffee Business. Our team wanted acquire a deeper understanding of the variables associated with the Coffee industry. We sought out to gather the following information to make decisions and answer questions that our Boad of Directors, investors, community and others may have about our chosen subsidiary.
+
 ### **Objectives & Purpose:**
 1. **Revenue Generation** - Provide financial support to fund "Data's" non-profit programs and initiatives.  
 2. **Brand Awareness** - Leverage the coffee business to raise awareness about our non-profit's mission.  
 3. **Community Engagement** - Create opportunities for local partnerships and employment.  
 4. **Sustainability** - Establish a long-term funding source that reduces reliance on donations and grants.
 
-Data_Grinders was decided upon because of a mutual interest in the Coffee Business. Our team wanted acquire a deeper understanding of the variables associated with the Coffee industry. We sought out to gather the following information to make decisions and answer questions that we, our Boad of Directors, investors and others may have about our chosen subsidiary.
-
+Hypothesis: The quality of coffee is closely tied to the world's leading coffee-exporting countries.
+1. How have coffee imports and exports changed over time (2013 – 2023) for the top 5 countries?
+2. What countries were the top 5 coffee exporters and importers?
+3. Which countries were the top 5 coffee consumers?
+4. What countries score highest in overall quality?
+5. Which countries consume the most coffee relative to their population?
+Analysis and cleaning of our data
 ## Instructions on how to use and interact with the project:
 
 ## At least one paragraph summarizing efforts for ethical considerations made in the project:
