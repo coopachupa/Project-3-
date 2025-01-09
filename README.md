@@ -20,8 +20,9 @@ We developed a website. Each tab that you click on takes you to a visualization 
 3. Which countries were the top 5 coffee consumers?
 4. What countries score highest in overall quality?
 5. Which countries consume the most coffee relative to their population?
-   We also have a heat map that illustrates the quality and
-   Our Hypothesis: "The quality of coffee is closely tied to the world's leading coffee-exporting countries".
+6. A display of a heat map illustration is also included.
+   
+  ** Our Hypothesis: "The quality of coffee is closely tied to the world's leading coffee-exporting countries".**
 
 ## Ethical considerations made in the project:
 When collaborating on this group project, ethical considerations were crucial to ensure fair contribution, transparency, and respect for all team members; this included actively participating, sharing workload equitably, acknowledging everyone's ideas, avoiding plagiarism by properly citing sources, and addressing any conflicts or concerns openly and respectfully to ensure that no individual felt unduly burdened or excluded throughout the project process. 
@@ -34,6 +35,8 @@ When collaborating on this group project, ethical considerations were crucial to
 ## References for data code used:
 Poyscript
 HTML 
+Brian Design (a few design techniques were presented to be included in making the website but may not have been used)
+
 ## Team_Members():
 - Ashley Cooper>...Visualizations, Coffee Research, Project Report, Outline/Proposal, Git setup, Presentation, HTML
 - Nurmaa Dashzeveg>...Final Jupyter Notebook, Presentation, CSV Pull, Visualization
