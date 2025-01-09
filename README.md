@@ -33,8 +33,8 @@ When collaborating on this group project, ethical considerations were crucial to
 - https://www.kaggle.com/datasets/adampq/coffee-quality-with-locations-of-origin?select=Coffee_Qlty_By_Country.csv
 
 ## References for data code used:
-Poyscript
-HTML 
+Poyscript, 
+HTML,  
 Brian Design (a few design techniques were presented to be included in making the website but may not have been used)
 
 ## Team_Members():
