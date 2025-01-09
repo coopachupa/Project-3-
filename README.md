@@ -44,7 +44,7 @@ HTML,
 Brian Design (a few design techniques were presented to be included in making the website but may not have been used)
 
 ## Team_Members():
-- Ashley Cooper>...Visualizations, Coffee Research, Project Report, Outline/Proposal, Git setup, Presentation, HTML
+- Ashley Cooper>...Visualizations, Coffee Research, Outline/Proposal, Git setup, Presentation, HTML
 - Nurmaa Dashzeveg>...Final Jupyter Notebook, Presentation, CSV Pull, Visualization
 - Deidra Lebron>...CSV Pull, README, Coffee Research, Presentation, HTML, Visualization
 - Vraj Patel>...PostgreSQL, HTML, Presentation, 
