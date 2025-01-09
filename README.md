@@ -13,16 +13,18 @@ Data_Grinders was decided upon because of a mutual interest in the Coffee Busine
 3. **Community Engagement** - Create opportunities for local partnerships and employment.  
 4. **Sustainability** - Establish a long-term funding source that reduces reliance on donations and grants.
 
-Hypothesis: The quality of coffee is closely tied to the world's leading coffee-exporting countries.
+## Instructions on how to use and interact with the project:
+We developed a website. Each tab that you click on takes you to a visualization and expaination of the following 5 questions:
 1. How have coffee imports and exports changed over time (2013 – 2023) for the top 5 countries?
 2. What countries were the top 5 coffee exporters and importers?
 3. Which countries were the top 5 coffee consumers?
 4. What countries score highest in overall quality?
 5. Which countries consume the most coffee relative to their population?
-Analysis and cleaning of our data
-## Instructions on how to use and interact with the project:
+   We also have a heat map that illustrates the quality and
+   Our Hypothesis: "The quality of coffee is closely tied to the world's leading coffee-exporting countries".
 
-## At least one paragraph summarizing efforts for ethical considerations made in the project:
+## Ethical considerations made in the project:
+When collaborating on this group project, ethical considerations were crucial to ensure fair contribution, transparency, and respect for all team members; this included actively participating, sharing workload equitably, acknowledging everyone's ideas, avoiding plagiarism by properly citing sources, and addressing any conflicts or concerns openly and respectfully to ensure that no individual felt unduly burdened or excluded throughout the project process. 
 
 ## Data Source(s):
 - https://www.kaggle.com/datasets/parasrupani/coffee-distribution-across-94-counties
