@@ -32,6 +32,12 @@ When collaborating on this group project, ethical considerations were crucial to
 - https://www.kaggle.com/datasets/dataanalyst001/world-population-by-country-2024
 - https://www.kaggle.com/datasets/adampq/coffee-quality-with-locations-of-origin?select=Coffee_Qlty_By_Country.csv
 
+## Downloaded csv files has been renamed locally as follows. 
+
+- psd_coffee.csv to stats_coffee.csv
+- World Population by country 2024.csv to population.csv
+- Coffee_Qlty_By_Country.csv to coffee_qlty.csv
+
 ## References for data code used:
 Poyscript, 
 HTML,  
